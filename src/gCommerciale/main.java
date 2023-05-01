@@ -10,10 +10,6 @@ public class gCommercialeTest {
 		Scanner in = new Scanner(System.in);
 		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");  
 		
-		//Client clii = new Client(1, "Haitham", "Sfax", 0);
-		//Article artt1 = new Article("2", "Stylo Bleu", 1.99, 10);
-		//Article artt2 = new Article("3", "Stylo Rouge", 1.99, 10);
-		//Commerciale.AjouterClient(clii);Commerciale.AjouterArticle(artt1);Commerciale.AjouterArticle(artt2);
 	    boolean boo;
 	    int n = -1;
 		while(n!=0)
